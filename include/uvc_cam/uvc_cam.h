@@ -38,7 +38,7 @@
 #include <stdlib.h>
 
 //Extension unit header
-#include "xunit_lib_tara.h"
+#include "../src/xunit/xunit_lib_tara.h"
 
 //#define TRUE 0
 //#define FALSE 1
